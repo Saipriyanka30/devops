@@ -1,6 +1,0 @@
-git remote
-git commit 
-git Add
-git push
-git fetch
-
